@@ -12,7 +12,7 @@ public class ProgrammingLab8_11_LinearEquation {
 		Scanner input = new Scanner(System.in); 
 		
 		// input the coefficient a, b, c, d, e and f
-		System.out.println("Please input the coefficient a, b, c, d, e,and f: ");
+		System.out.println("Please input the coefficient a, b, c, d, e and f: ");
 		int a = input.nextInt();
 		int b = input.nextInt();
 		int c = input.nextInt();
