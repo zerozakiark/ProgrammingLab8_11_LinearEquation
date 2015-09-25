@@ -32,7 +32,7 @@ public class ProgrammingLab8_11_LinearEquation {
 		else
 			//a * d - b * c != 0 
 			//display the result
-			System.out.println("The solution of these equations : x =" 
+			System.out.println("The solution of these equations : x = " 
 				+ equations.getX() + " and " + " y = " 
 				+ equations.getY());					
 		}		
