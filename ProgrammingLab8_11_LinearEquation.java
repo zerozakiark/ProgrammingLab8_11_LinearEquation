@@ -89,7 +89,7 @@ class LinearEquation{
 
 	// A method named isSolvable() that return true if (a * d - b * c) is not 0 
 	boolean isSolvable() {
-		return a * d - b * c != 0.0D;
+		return (a * d - b * c) != 0.0D;
 	}
 
 	// method getX() that return the solution for the equation
